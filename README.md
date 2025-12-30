@@ -2,7 +2,7 @@
 
 A comprehensive simulation of CubeSat attitude control using a pyramid configuration of reaction wheels. This project demonstrates cascaded attitude control, reaction wheel saturation handling, and fault tolerance.
 
-![Description of image](media/simulator.png) 
+![Description of image](media/simulation_image.png) 
 
 [Watch the demo video](media/cubesat_sim.mp4)
 
