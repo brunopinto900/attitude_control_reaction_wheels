@@ -13,9 +13,11 @@ from config import*
 
 # Import mathematical functions
 from math_functions import (
-    euler_to_quat, quat_mult, quat_conj, quat_norm, quat_to_dcm,
-    cascaded_attitude_controller
+    euler_to_quat, quat_mult, quat_conj, quat_norm, quat_to_dcm
 )
+
+# Import controller
+from controller import cascaded_attitude_controller
 
 # Import dynamics functions
 from dynamics import rk4
