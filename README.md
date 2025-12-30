@@ -37,7 +37,6 @@ REACTION_WHEELS/
 ├── dynamics.py                    # Spacecraft rigid-body dynamics
 ├── controller.py                    # Controller implementation
 ├── reaction_wheels.py             # Reaction wheel functions and updates
-├── util_functions.py              # Utility functions (ramp generators)
 ├── plot_functions.py              # Visualization and animation functions
 ├── main.py                        # Main simulation script
 └── README.md                      # This file
