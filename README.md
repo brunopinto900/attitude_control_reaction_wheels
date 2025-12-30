@@ -35,11 +35,11 @@ REACTION_WHEELS/
 ├── config.py                      # Configuration parameters and constants
 ├── math_functions.py              # Quaternion and mathematical operations
 ├── dynamics.py                    # Spacecraft rigid-body dynamics
+├── controller.py                    # Controller implementation
 ├── reaction_wheels.py             # Reaction wheel functions and updates
 ├── util_functions.py              # Utility functions (ramp generators)
 ├── plot_functions.py              # Visualization and animation functions
 ├── main.py                        # Main simulation script
-├── main_without_refactoring.py   # Original monolithic code (backup)
 └── README.md                      # This file
 ```
 
